@@ -2,7 +2,7 @@ Pilas y colas en C++
 Junio 2019
 
 Para ejecutar el programa es ir a la carpeta mediante su consola o terminal al folder
-en el que se encuentra el programa, la carpeta de "Balanceo_signos_agrupaci".
+en el que se encuentra el programa, la carpeta de "Balanceo_signos_agrupacion".
 Debe ingresar y digitar en la consola o terminal:
 
 $ make
